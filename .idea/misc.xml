@@ -38,25 +38,6 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/Downloads/java-se-jetty-gradle-v1" value="1481040258000" />
-        <entry key="$PROJECT_DIR$/../Profiles-Blog" value="2959384072000" />
-        <entry key="$PROJECT_DIR$/../SpringBootTwoDataSources" value="2886634836000" />
-        <entry key="$PROJECT_DIR$/../podcastpedia-batch" value="1480721600000" />
-        <entry key="$PROJECT_DIR$/../reactor-kafka" value="2968124987000" />
-        <entry key="$PROJECT_DIR$/../spring-boot-angular2" value="2973921416000" />
-        <entry key="$PROJECT_DIR$/../spring-integration-java-dsl" value="4450173306000" />
-        <entry key="$PROJECT_DIR$/../spring-integration-samples" value="2961962606000" />
-        <entry key="$PROJECT_DIR$/../spring-security" value="2974052850000" />
-        <entry key="$PROJECT_DIR$/../spring-security-0-to-4.0" value="1486944138000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="JsBowerSettings">
     <exe-path>/usr/local/bin/bower</exe-path>
     <config-path />
